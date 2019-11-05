@@ -1,24 +1,13 @@
-# fullstack_vue_graphql_node_1
+# NameGator
 
-## Project setup
+## Auto generator project of names
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+You can generate any name with much too variations.
+Use text field to insert prefix and the other text field to insert the suffix.
+You will can to see at the generated table below.
 ```
 
-### Compiles and minifies for production
+### development
 ```
-yarn build
+Vue, Bootstrap, Babel
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
